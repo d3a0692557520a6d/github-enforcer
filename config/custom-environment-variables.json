@@ -1,0 +1,10 @@
+{
+  "github": {
+    "org": "GITHUB_ORG",
+    "token": "GITHUB_TOKEN",
+    "webhook": {
+      "url": "GITHUB_WEBHOOK_URL",
+      "secret": "GITHUB_WEBHOOK_SECRET"
+    }
+  }
+}
